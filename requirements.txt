@@ -1,0 +1,17 @@
+# Core
+torch>=2.1
+transformers>=4.44
+accelerate>=0.33
+datasets>=2.20
+sentencepiece
+evaluate>=0.4
+scikit-learn>=1.3
+pandas>=2.0
+numpy>=1.24
+tqdm>=4.66
+
+# Retrieval
+rank-bm25>=0.2.2
+
+# Utils
+pyyaml>=6.0
